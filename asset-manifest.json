@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/MERN-APP-Workout-Tracker/static/css/main.6ecc58e0.css",
+    "main.js": "/MERN-APP-Workout-Tracker/static/js/main.df31442a.js",
+    "index.html": "/MERN-APP-Workout-Tracker/index.html",
+    "main.6ecc58e0.css.map": "/MERN-APP-Workout-Tracker/static/css/main.6ecc58e0.css.map",
+    "main.df31442a.js.map": "/MERN-APP-Workout-Tracker/static/js/main.df31442a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6ecc58e0.css",
+    "static/js/main.df31442a.js"
+  ]
+}
